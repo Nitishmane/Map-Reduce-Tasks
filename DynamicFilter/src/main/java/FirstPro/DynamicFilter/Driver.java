@@ -28,8 +28,8 @@ public class Driver extends Configured implements Tool {
 
         if (args.length != 3) {
             System.out.printf(
-                    "Usage: %s [generic options] <input dir> <output dir>\n", getClass()
-                    .getSimpleName());
+	                    "Usage: %s [generic options] <input dir> <output dir>\n", getClass()
+	                    .getSimpleName());
             ToolRunner.printGenericCommandUsage(System.out);
             return -1;
         }

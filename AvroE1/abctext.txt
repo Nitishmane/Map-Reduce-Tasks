@@ -1,0 +1,3 @@
+{"id": 2, "name": "dfdf", "designation": "sdsd", "mgrid": 10, "hiredate": "06/10/2015", "salary": 100000.0, "commission": 500.0, "deptid": 101}
+{"id": 3, "name": "sdsd", "designation": "sds", "mgrid": 10, "hiredate": "06/10/2015", "salary": 100000.0, "commission": 500.0, "deptid": 101}
+{"id": 4, "name": "gvfg", "designation": "fssd", "mgrid": 10, "hiredate": "06/10/2015", "salary": 100000.0, "commission": 500.0, "deptid": 101}
